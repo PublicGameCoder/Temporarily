@@ -1,0 +1,9 @@
+main: program.Startup
+name: MiniGameTemplate
+version: 1.0.0
+author: PublicGameCoder
+description: Made by PublicGameCoder.
+
+commands:
+   forcestart:
+      description: Force-Start the game!

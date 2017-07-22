@@ -1,0 +1,14 @@
+Lobby. *
+Private Chat. *
+ChatUtil. *
+Respawn Timer. (boolean) *
+Arena Bounds. *
+PointSystem. *
+LeaderBoard. *
+Spectator Mode. *
+Arena Bounds Flags. *
+Arena Finished Method. *
+Arena Kits. (boolean)
+ - Loading *
+ - Displaying
+ - Choosing
