@@ -1,0 +1,36 @@
+main: shkitpvp.SHKitPVP
+name: SHKitPVP
+version: 0.0
+author: PublicGameCoder
+description: Made by PublicGameCoder.
+commands:
+    join:
+        description: joins arena
+        usage: /<command> [id]
+    create:
+        description: creates arena
+        usage: /<command>
+    remove:
+        description: removes arena
+        usage: /<command> [id]
+    leave:
+        description: leaves arena
+        usage: /<command>
+    addinventory:
+        description: adds inventory
+        usage: /<command>
+    removeinventory:
+        description: removes inventory
+        usage: /<command>
+    addlocation:
+        description: adds location
+        usage: /<command>
+    removelocation:
+        description: removes location
+        usage: /<command>
+    showinventories:
+        description: removes location
+        usage: /<command>
+    showlocations:
+        description: removes location
+        usage: /<command>
