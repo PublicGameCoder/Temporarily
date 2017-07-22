@@ -1,0 +1,10 @@
+main: nl.spacehorizons.minecitypolice.Main
+name: MineCityPolice
+version: 1.0.0
+author: SpaceHorizons
+description: Made by PublicGameCoder.
+
+commands:
+   mcp:
+      description: The main MineCityPolice command!
+      permission: MCPolice.police
