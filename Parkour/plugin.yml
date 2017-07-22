@@ -1,0 +1,13 @@
+main: shparkour.SHParkour
+name: SHParkour
+version: 1.0.0
+author: SpaceHorizons
+description: Made by PublicGameCoder.
+
+commands:
+   shparkour:
+      description: the main SHParkour command!
+      permission: SHParkour.builder
+   shpk:
+      description: the main SHParkour command!
+      permission: SHParkour.builder
