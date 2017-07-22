@@ -1,0 +1,9 @@
+main: main.Main
+name: Clock Hunters
+version: 1.0.0
+author: PublicGameCoder
+description: Made by PublicGameCoder.
+
+commands:
+  map:
+      description: Custom map commands list!
